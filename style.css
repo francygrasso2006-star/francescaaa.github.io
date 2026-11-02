@@ -397,7 +397,7 @@ main{
   letter-spacing: 2px;
 }
 
-@media(max-width:40em) {
+@media(max-width:600px) {
  .top-bar {
     background-color: #a85d6d;
     color: #111111;
